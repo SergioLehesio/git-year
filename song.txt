@@ -15,7 +15,11 @@ Then she lit up a candle
 And she showed me the way
 There were voices down the corridor
 I thought I heard them say
+<<<<<<< HEAD
 *
+=======
+*********
+>>>>>>> 59677e09d0a87310d5f3f9431627737c8b91e24a
 Welcome to the Hotel California
 Such a lovely place
 Such a lovely place (background)
@@ -24,6 +28,7 @@ Plenty of room at the Hotel California
 Any time of year
 Any time of year (background)
 You can find it here
+<<<<<<< HEAD
 *
 Her mind is Tiffany-twisted
 Shes's got the Mercedes-Bends
@@ -45,4 +50,7 @@ The ship glides gently on the waves
 As day turns into night
 
 
+=======
+**********
+>>>>>>> 59677e09d0a87310d5f3f9431627737c8b91e24a
 
